@@ -8,3 +8,10 @@ Specializarea: Informatica
 Acesta este primul meu repository creat pe GitHub.
 
 Scopul laboratorului este de a invata utilizarea sistemului Git si a platformei GitHub.
+
+## Obiectivele laboratorului
+
+- Invatarea comenzilor Git.
+- Crearea repository-urilor.
+- Utilizarea ramurilor.
+- Colaborarea prin Pull Requests.
