@@ -1,0 +1,10 @@
+
+INFORMATII DESPRE PROIECT
+
+Repository: lab1-github
+Platforma: GitHub
+Instrument: Git
+Autor: Valeria Popusoi
+Grupa: IT2601
+
+Acest proiect este realizat in cadrul laboratorului de GitHub.
